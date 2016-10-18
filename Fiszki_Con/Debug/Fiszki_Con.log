@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\łukasz\documents\visual studio 2015\projects\fiszki_con\fiszki_con\game.cpp(201): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Fiszki_Con.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\Fiszki_Con\Debug\Fiszki_Con.exe
+  Fiszki_Con.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\Fiszki_Con\Debug\Fiszki_Con.pdb (Partial PDB)
